@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38604e327634ebf4196313af4f1d3b66, type: 3}
+  m_Name: GameRule_Test
+  m_EditorClassIdentifier: Assembly-CSharp::BoardOfDead.GameRuleSOBJ
+  maxRounds: 20
+  radioCardCountPerRound: 3
+  hordeCardThreshold: 4
+  nuclearTriggerHordeCount: 3
+  nuclearCountdownRounds: 5
+  baseMoveAPCost: 1
+  baseActionAPCost: 1
